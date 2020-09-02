@@ -5,5 +5,5 @@
 #### **Summary 02:** [What Drives the Reading Order of Programmers? An Eye Tracking Study.](https://github.com/isanjayrassani/summaries-of-research-papers/blob/master/SUMMARY-02/SUMMARY.md)
 #### **Summary 03:** [Software-related Slack Chats with Disentangled Conversations.](https://github.com/isanjayrassani/summaries-of-research-papers/blob/master/SUMMARY-03/SUMMARY.md)
 
-### [Sanjay Kumar](https://github.com/isanjayrasani)
+### [Sanjay Kumar](https://github.com/isanjayrassani)
 ### [2K18/CSM/96]
