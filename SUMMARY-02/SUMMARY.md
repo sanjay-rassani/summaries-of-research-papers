@@ -9,7 +9,7 @@
 ***Janet Siegmund,*** and
 ***Sven Apel.***
 
-**Conference:** MSR 2020
+**Conference:** ICPC 2020
 
 **Link to the Paper:** https://conf.researchr.org/details/icpc-2020/icpc-2020-research/21/What-Drives-the-Reading-Order-of-Programmers-An-Eye-Tracking-Study
 
